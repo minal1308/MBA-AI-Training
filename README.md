@@ -1,4 +1,4 @@
-# MBA AI Business Innovation Portfolio
+# MBA AI Training Portfolio
 
 ### Exploring Artificial Intelligence and Its Applications in Business Management
 
